@@ -1,23 +1,23 @@
 {
-  "name": "beltah-md",
+  "name": "math-md",
   "version": "1.0.0",
   "description": "",
-  "main": "beltah.js",
+  "main": "joel.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node beltah.js",
-    "beltah": "pm2 start beltah.js --attach --max-memory-restart 490M",
+    "s": "node jokathanjoka.js",
+    "beltah": "pm2 start jokathanjoka.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Beltah",
+    "Math",
     "whatsapp",
     "whatsapp-bot",
     "Faouz995"
   ],
-  "author": "Beltah Tech Team",
+  "author": "Joel Tech Team",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
