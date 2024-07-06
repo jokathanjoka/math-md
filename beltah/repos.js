@@ -77,7 +77,7 @@ function _0x5403() {
         'om/repos/B',
         'dee6cc7597',
         'en-GB',
-        'm/@Beltaht',
+        'm/@freeonline',
         '1375650kPEVMp',
         'https://te',
         '_count',
@@ -85,7 +85,7 @@ function _0x5403() {
         'html_url',
         'ELEASE*:\x20',
         '3lRiMIM',
-        'c859a.jpg',
+        'db141.jpg',
         'eatures.\x0a\x0a',
         'forks',
         '774BAkZXQ',
@@ -105,13 +105,13 @@ function _0x5403() {
         'erty',
         'keFBU',
         'ile/dcce2d',
-        'ltah-md',
+        'ath-md',
         '\x20\x0a❒⁠⁠⁠⁠\x20*F',
         '\x0a❒⁠⁠⁠⁠\x20*VI',
         'tah\x20tech◆',
         'updated_at',
         '_______\x0a\x20◆',
-        'AM\x20Beltah-',
+        'AM\x20Math-',
         '\x20😊Hello,I\x20'
     ];
     _0x5403 = function () {
