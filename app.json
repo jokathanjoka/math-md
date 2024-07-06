@@ -2,7 +2,7 @@
   "name":"MATH MD",
   "description":"Deploy now your MATH MD bot, MATH-MD was developed by Joeltech"
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":https://telegra.ph/file/0bc8a3f6e4e684addb141.jpg",
+  "logo":"https://telegra.ph/file/0bc8a3f6e4e684addb141.jpg",
   "repository":"https://github.com/jokathanjoka/math-md",
   "succes_url":"/",
   "stack":"container",
