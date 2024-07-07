@@ -38,7 +38,7 @@
 ## 4. DEPLOY NOW ON HEROKU 
 <h1 align="center">
  
- ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Fred1e/math-md&template=https://github.com/Fredie/math-md.git)***
+ ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/jokathanjoka/math-md&template=https://github.com/jokathanjoka/math-md.git)***
 
 
  ## WATCH TUTORIAL AND SUBSCRIBE
