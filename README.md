@@ -7,7 +7,7 @@
   </p>
 <div align="center">
 
-| [![Beltah KE](https://telegra.ph/file/0bc8a3f6e4e684addb141.jpg?lenght=50width=50)](https://github.com/Beltahmd)|
+| [![JOEL TZ](https://telegra.ph/file/0bc8a3f6e4e684addb141.jpg?lenght=50width=50)](https://github.com/jokathanjoka)|
 |----|
 
 <p align="center">
@@ -17,7 +17,7 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-JOEL TECH-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Math-md?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/jokathanjoka?label=Followers&style=social"></a>
+<a href="https://github.com/math-md?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/jokathanjoka?label=Followers&style=social"></a>
 <a href="https://github.com/jokathanjoka/math-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/jokathanjoka/math-md?&style=social"></a>
 <a href="https://github.com/jokathanjoka/math-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/jokathanjoka/math-md?style=social"></a>
 <a href="https://github.com/jokathanjoka/math-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/jokathanjoka/math-md?label=Watching&style=social"></a>
@@ -32,7 +32,7 @@
 
 <a href="https://beltah-pairing-code-b11a94d6c0f0.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-red" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
 
-⏣[**VISIT**](https://beltah-pairing-code-b11a94d6c0f0.herokuapp.com/) JOEL TECH SITES; <br>
+⏣[**VISIT**](https://math-pairing-code-b11a94d6c0f0.herokuapp.com/) JOEL TECH SITES; <br>
 
 
 ## 4. DEPLOY NOW ON HEROKU 
